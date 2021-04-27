@@ -1,7 +1,7 @@
 # OctopusEnergyUsage
 Python script to call Octopus Energy's API to gather your energy usage between a specified date range.
 
-To use the script, you will need the following libraries installed:
+To use the script, you will need to have Python installed along with the following libraries:
 - Pandas
 - Requests
 
